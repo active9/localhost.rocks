@@ -1,7 +1,7 @@
 {
   "name": "localhost.rocks",
   "description": "LocalHost.Rocks - The Rockin Local Loopback Resolver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://localhost.rocks",
   "public": true,
   "main": "localhost.rocks.js",

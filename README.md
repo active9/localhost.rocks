@@ -1,4 +1,5 @@
 #localhost.rocks
+![localhost.rocks](http://host.rocks/localhostrocks_logo.png)
 
 ##WHAT IS IT?
 
