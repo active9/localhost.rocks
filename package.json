@@ -1,0 +1,40 @@
+{
+  "name": "localhost.rocks",
+  "description": "LocalHost.Rocks - The Rockin Local Loopback Resolver",
+  "version": "0.0.1",
+  "homepage": "http://localhost.rocks",
+  "public": true,
+  "main": "localhost.rocks.js",
+  "bin": {
+    "localhost": "localhost.rocks"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "ping": "^0.1.9",
+    "proxy": "^0.2.3",
+    "express": "^4.11.1",
+    "traceroute": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/active9/localhost.rocks"
+  },
+  "keywords": [
+    "localhost",
+    "127.0.0.1",
+    "resolver",
+    "loopback",
+    "rocks"
+  ],
+  "author": "Active 9 LLC.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/active9/localhost.rocks/issues"
+  }
+}
